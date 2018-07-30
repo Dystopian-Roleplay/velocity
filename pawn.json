@@ -1,5 +1,5 @@
 {
     "entry": "test.pwn",
     "output": "test.amx",
-    "dependencies": ["sampctl/samp-stdlib", "ScavengeSurvive/test-boilerplate"]
+    "dependencies": ["sampctl/samp-stdlib", "Dystopian-Roleplay/test-boilerplate"]
 }
